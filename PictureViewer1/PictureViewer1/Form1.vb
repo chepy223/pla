@@ -1,17 +1,17 @@
 ﻿Public Class Form1
-
+    'Anthony Gonzalez
     Private Sub showButton_Click() Handles showButton.Click
         If OpenFileDialog1.ShowDialog() = DialogResult.OK Then
             PictureBox1.Load(OpenFileDialog1.FileName)
         End If
 
     End Sub
-
+    'Anthony Gonzalez
     Private Sub clearButton_Click() Handles clearButton.Click
         ' Clear the picture.
         PictureBox1.Image = Nothing
     End Sub
-
+    'Anthony Gonzalez
     Private Sub backgroundButton_Click() Handles backgroundButton.Click
         ' Show the color dialog box. If the user clicks OK, change the
         ' PictureBox control's background to the color the user chose.
@@ -19,12 +19,12 @@
             PictureBox1.BackColor = ColorDialog1.Color
         End If
     End Sub
-
+    'Anthony Gonzalez
     Private Sub closeButton_Click() Handles closeButton.Click
         ' Close the form.
         Close()
     End Sub
-
+    'Anthony Gonzalez
     Private Sub CheckBox1_CheckedChanged() Handles CheckBox1.CheckedChanged
         ' If the user selects the Stretch check box, change 
         ' the PictureBox's SizeMode property to "Stretch". If the user 
@@ -35,4 +35,5 @@
             PictureBox1.SizeMode = PictureBoxSizeMode.Normal
         End If
     End Sub
+    'Anthony Gonzalez
 End Class
