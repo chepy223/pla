@@ -1,0 +1,12 @@
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbprojAssemblyReference.cache
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.Form1.resources
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.Resources.resources
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbproj.GenerateResource.cache
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.vbproj.CoreCompileInputs.cache
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.exe.config
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.exe
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.pdb
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\bin\Debug\PictureViewer1.xml
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.exe
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.xml
+C:\Users\Chepy\source\repos\PictureViewer1\PictureViewer1\obj\Debug\PictureViewer1.pdb
